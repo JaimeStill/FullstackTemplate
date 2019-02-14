@@ -1,0 +1,23 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Jaime Still",
+    "classifications": ["Web", "MVC", "SPA"],
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "identity": "Fullstack",
+    "groupIdentity": "Fullstack",
+    "name": "Fullstack",
+    "shortName": "fullstack",
+    "sourceName": "Qxyz",
+    "preferNameDirectory": true,
+    "sources": [{
+        "modifiers": [{
+            "exclude": [
+                ".git/**/*",
+                ".vs/**/*"
+            ]
+        }]
+    }]
+}
