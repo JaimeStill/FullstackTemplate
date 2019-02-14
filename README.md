@@ -1,6 +1,6 @@
 # Fullstack
 
-Add an Angular front end to the app by selecting a template from the [AngularTemplates repository](https://github.com/JaimeStill/AngularTemplates), and paste the `ClientApp` directory from the template into the `Qxyz.Web` directory.
+`dotnet new` template used for the Full Stack series Medium post.
 
 ## Installation
 
